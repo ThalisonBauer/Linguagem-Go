@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Go&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/go-lang-idea-plugin-master/go-lang-idea-plugin-master/src/com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/go-lang-idea-plugin-master/go-lang-idea-plugin-master/src/com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
